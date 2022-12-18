@@ -1,4 +1,4 @@
-# Social-Network-Functionalities
+# Social-Media-Network-Functionalities
 I have created a program on Social Network Functionalities using the
 best suitable data structures and minimum complexity. It has
 functionalitieslike:
